@@ -8,7 +8,7 @@ Kendini ifade gücü yüksek ezoterik turing complete programlama dili.
 |`:!=?N` | neq_go   | hücredeki sayı sıfıra eşit değilse N git |
 |`:=?N`  | eq_go    | hücredeki sayı sıfıra eşitse N git |
 |`:>?N`  | gtz_go   | hücredeki sayı sıfırdan küçükse N git |
-|`:<?N`  | gtz_go   | hücredeki sayı sıfırdan büyükse N git |
+|`:<?N`  | ltz_go   | hücredeki sayı sıfırdan büyükse N git |
 |`:pN`   | push num | hücreye sayı (N) yolla |
 |`:p"S"`   | push str | hücreye string (S) yolla|
 |`:<` | lgo | sola git |
