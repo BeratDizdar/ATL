@@ -41,6 +41,7 @@ function init_fn_list(&$tape) {
 		":d" => function () use (&$debug) { $debug = 1; },
 		":w" => function () use (&$tape, &$pos) {print($tape[$pos] . "\n");},
 		":r" => function () use (&$tape, &$pos) {
+			print("<< ");
 			$input = trim(fgets(STDIN));
 			if (is_numeric($input)) {$tape[$pos] = (int)$input;} 
 			else {$tape[$pos] = $input;}
