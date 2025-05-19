@@ -30,7 +30,7 @@ Kendini ifade gücü yüksek ezoterik turing complete programlama dili.
 ## ATL'nin Özelliği
 
 - Minimal komut seti kullanımı kolaylaştırıyor.
-- Örnek aldığım ezoterik dillerin sadeliğine sahip.
+- Sadelik konusunda APL'den örnek aldım.
 - Kullanıcıya gereksiz soyutlamalar vermiyor.
 - Regex kullanımını öğrenmek için ideal.
 
