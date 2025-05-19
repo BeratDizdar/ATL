@@ -36,5 +36,7 @@ Kendini ifade gücü yüksek ezoterik turing complete programlama dili.
 
 ## Kod Örnekleri
 - Ekrana 5 kere "Selam" yazdır.
-  -  `:p"Selam":>:p5:<:w:>:--:!=?-4`
+  - `:p"Selam":>:p5:<:w:>:--:!=?-4`
+- 0'dan girilen N sayısına kadar yazdır.
+  - `:r:>:++:w:<:--:!=?-5`
 
