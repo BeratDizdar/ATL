@@ -1,4 +1,4 @@
-# ATL
+# ATL (Advanced Tape Language)
 Kendini ifade gücü yüksek ezoterik turing complete programlama dili.
 
 ## Şuanki Komut Seti
