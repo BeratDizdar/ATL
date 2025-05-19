@@ -23,7 +23,7 @@ Kendini ifade gücü yüksek ezoterik turing complete programlama dili.
 ## Veri Tipleri
 
 | biçim | tür |
-| ----------- |
+| ------|---- |
 | `123` | Numeric |
 | `"Hello"` | String |
 
@@ -33,3 +33,8 @@ Kendini ifade gücü yüksek ezoterik turing complete programlama dili.
 - Örnek aldığım ezoterik dillerin sadeliğine sahip.
 - Kullanıcıya gereksiz soyutlamalar vermiyor.
 - Regex kullanımını öğrenmek için ideal.
+
+## Kod Örnekleri
+- Ekrana 5 kere "Selam" yazdır.
+  -  `:p"Selam":>:p5:<:w:>:--:!=?-4`
+
